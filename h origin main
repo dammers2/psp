@@ -1,0 +1,32 @@
+[33mcommit caef56de16de576ec407335542b1768330e42646[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: LauraLuen <lauraluenigle@gmail.com>
+Date:   Mon Dec 2 09:46:52 2024 +0100
+
+    añadido usuario a contributors.md
+
+[33mcommit 4131369030a623dcaba45ba4ad620359816cd1d2[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 58eec89 6a98dfd
+Author: Marcos <167062960+markossmdz@users.noreply.github.com>
+Date:   Mon Dec 2 09:27:09 2024 +0100
+
+    Merge pull request #5 from dammers2/add_teacher_name
+    
+    Add bananas24 to the contributors file
+
+[33mcommit 6a98dfde6b400208dcda56bc793f7a0df026d4b2[m[33m ([m[1;31morigin/add_teacher_name[m[33m)[m
+Author: bananas24 <el8dan@gmail.com>
+Date:   Mon Dec 2 09:18:01 2024 +0100
+
+    Add bananas24 to the contributors file
+
+[33mcommit 58eec89ea7325a4794e59859e82cecb9b72fa848[m
+Author: bananas24 <el8dan@gmail.com>
+Date:   Sun Dec 1 17:32:18 2024 +0100
+
+    Added contributors file
+
+[33mcommit ea8feca4c7ddaea977ba907f6aeb8f1858733845[m
+Author: bananas24 <el8dan@gmail.com>
+Date:   Fri Nov 29 12:43:27 2024 +0100
+
+    Initial commit
