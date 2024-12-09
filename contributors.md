@@ -1,6 +1,6 @@
 Contributors file
 =================
 
-bananas24 - teacher
-leireHernanG
+bananas24     - teacher
+leireHernanG  - Leire
 
