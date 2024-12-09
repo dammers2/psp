@@ -1,6 +1,6 @@
 Contributors file
 =================
 
-bananas24 - teacher
-Hugo - Student
-
+- bananas24   - teacher
+- markossmdz  - Marcos
+- hugogare    - Hugo
