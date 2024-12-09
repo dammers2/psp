@@ -1,6 +1,7 @@
 Contributors file
 =================
 
-bananas24 - teacher
-
-delgueero - student
+- bananas24   - teacher
+- markossmdz  - Marcos
+- JavierSff   - Javier 
+- delgueero   - Daniel
