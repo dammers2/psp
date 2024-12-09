@@ -1,5 +1,6 @@
 Contributors file
 =================
+
 - bananas24     - teacher
 - markossmdz    - Marcos
 - JavierSff     - Javier 
@@ -9,5 +10,6 @@ Contributors file
 - hugogare      - Hugo
 - ItIsabel      - Isabel
 - delgueero     - Daniel
+- rdrg          - Rodrigo
 - MsRebeca      - Rebeca
 - manarbouhlal	- Manar
