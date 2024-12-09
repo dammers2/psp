@@ -9,3 +9,4 @@ Contributors file
 - hugogare      - Hugo
 - ItIsabel      - Isabel
 - delgueero     - Daniel
+- MsRebeca      - Rebeca
