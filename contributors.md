@@ -5,4 +5,6 @@ Contributors file
 - markossmdz    - Marcos
 - JavierSff     - Javier 
 - leireHernanG  - Leire
+- Macmu1488     - Jorge
+- migueldam2    - Miguel	
 - hugogare      - Hugo
