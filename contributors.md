@@ -10,3 +10,4 @@ Contributors file
 - ItIsabel      - Isabel
 - delgueero     - Daniel
 - MsRebeca      - Rebeca
+- manarbouhlal	- Manar
