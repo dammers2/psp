@@ -11,3 +11,5 @@ Contributors file
 - ItIsabel      - Isabel
 - delgueero     - Daniel
 - rdrg          - Rodrigo
+- MsRebeca      - Rebeca
+- manarbouhlal	- Manar
