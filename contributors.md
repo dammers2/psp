@@ -10,3 +10,5 @@ Contributors file
 - ItIsabel      - Isabel
 - delgueero     - Daniel
 - MsRebeca      - Rebeca
+- LauraLuen     - Laura
+
