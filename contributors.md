@@ -8,4 +8,4 @@ Contributors file
 - migueldam2    - Miguel	
 - hugogare      - Hugo
 - ItIsabel      - Isabel
-
+- delgueero     - Daniel
