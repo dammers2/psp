@@ -18,17 +18,15 @@ User threads
 
 Threads are sometimes implemented in userspace libraries, thus called user threads. The kernel is unaware of them, so they are managed and scheduled in userspace. Some implementations base their user threads on top of several kernel threads, to benefit from multi-processor machines (M:N model). User threads as implemented by virtual machines are also called green threads.
 
-Fibers
+### Fibers  
+Fibers are lightweight scheduling units that operate on cooperative scheduling. This means that a running fiber must explicitly "yield" control to allow another fiber to execute, making their implementation simpler compared to kernel or user threads. Fibers can run on any thread within the same process, enabling applications to enhance performance by managing scheduling themselves rather than depending on the kernel scheduler, which may not be optimized for specific applications. Some experimental implementations of the OpenMP parallel programming model utilize fibers to handle tasks.
 
-Fibers are an even lighter unit of scheduling which are cooperatively scheduled: a running fiber must explicitly "yield" to allow another fiber to run, which makes their implementation much easier than kernel or user threads. A fiber can be scheduled to run in any thread in the same process. This permits applications to gain performance improvements by managing scheduling themselves, instead of relying on the kernel scheduler (which may not be tuned for the application). Some research implementations of the OpenMP parallel programming model implement their tasks through fibers.
+### Threads vs. Processes  
+Threads and processes differ in several significant ways:  
+- **Independence**: Processes are generally independent, while threads are components within a process.  
+- **State Information**: Processes maintain more extensive state information, whereas threads within the same process share the process state, memory, and other resources.  
+- **Address Space**: Processes have distinct address spaces, but threads share a single address space.  
+- **Interaction**: Processes communicate through system-provided inter-process communication mechanisms, while threads interact more directly within the same process.  
+- **Context Switching**: Switching between threads of the same process is typically faster than switching between processes.  
 
-Threads vs processes
-
-Threads differ from traditional multitasking operating-system processes in several ways:
-
-processes are typically independent, while threads exist as subsets of a process
-processes carry considerably more state information than threads, whereas multiple threads within a process share process state as well as memory and other resources
-processes have separate address spaces, whereas threads share their address space
-processes interact only through system-provided inter-process communication mechanisms
-context switching between threads in the same process typically occurs faster than context switching between processes
-Systems such as Windows NT and OS/2 are said to have cheap threads and expensive processes; in other operating systems there is not so great a difference except in the cost of an address-space switch, which on some architectures (notably x86) results in a translation lookaside buffer (TLB) flush.
+Operating systems like Windows NT and OS/2 are known for "cheap threads" and "expensive processes." In contrast, other systems show less disparity, except for the cost of switching address spaces. On architectures such as x86, this often triggers a translation lookaside buffer (TLB) flush, which can affect performance.
