@@ -18,12 +18,6 @@ Process Control Block (PCB): The OS maintains a data structure called the Proces
     - Accounting Information: CPU used, clock time elapsed since start, time limits.
     - I/O Status Information: List of I/O devices allocated to the process, list of open files.
 
-Process Scheduling: Scheduling is the method by which work assigned to the CPU is managed. The main goal is to maximize CPU utilization and allow multiple processes to be executed simultaneously.
-
-    - Long-term Scheduler (Job Scheduler): Decides which processes should be brought into the ready queue. This scheduler controls the degree of multiprogramming.
-    - Short-term Scheduler (CPU Scheduler): Decides which of the ready processes should be executed next and allocates the CPU.
-    - Medium-term Scheduler: Swaps processes in and out of memory to balance the load on the CPU.
-
 Context Switching: When the CPU switches from executing one process to executing another, the state of the current process must be saved and the state of the next process must be loaded. 
 This is called a context switch and involves saving and restoring the PCB of the processes.
 
