@@ -16,3 +16,4 @@ Contributors file
 - manarbouhlal	- Manar
 - srocillo23    - Sergio
 - TiagoLezcano	- Tiago
+- josupalacio   - Josué
