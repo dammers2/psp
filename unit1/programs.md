@@ -88,12 +88,13 @@ Computer programs are essential for automating tasks, solving problems, and enha
 | Communication | Facilitates global connectivity | Transforms social and business interactions |
 | Innovation | Enables technological advancement | Drives progress in AI, robotics, and research |
 
+### Future Trends in Programming
 
 ### Program Development Lifecycle
 
 The Software Development Life Cycle (SDLC) consists of the following phases
 
-1. Requirement Analysis: Understanding the problem to solve.
+Here's how programs have revolutionized various sectors:
 
 2. Design: Planning the structure and features of the program.
 
