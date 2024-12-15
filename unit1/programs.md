@@ -81,12 +81,7 @@ Computer programs are essential for automating tasks, solving problems, and enha
 
 ### Key Roles of Programs:
 
-| Role | Description | Impact |
-|------|-------------|---------|
-| Automation | Programs perform repetitive tasks faster and more accurately | Reduces human error, increases productivity |
-| Efficiency | Analyzes vast amounts of data in seconds | Enables rapid decision-making |
-| Communication | Facilitates global connectivity | Transforms social and business interactions |
-| Innovation | Enables technological advancement | Drives progress in AI, robotics, and research |
+Automation: Programs perform repetitive tasks faster and more accurately than humans.
 
 ### Future Trends in Programming
 
@@ -107,22 +102,25 @@ Here's how programs have revolutionized various sectors:
 6. Maintenance: Updating the program to fix bugs or add features.
 
 
-### Future Trends in Programming
 
-| Technology | Current State | Future Impact |
-|------------|--------------|---------------|
-| Cloud Computing | Widely adopted | Enhanced scalability and accessibility |
-| Machine Learning | Rapidly growing | Smarter, more adaptive applications |
-| Quantum Computing | Early development | Revolutionary processing capabilities |
-| IoT Integration | Expanding | Seamless device connectivity |
+####### Program Development Lifecycle
 
 
 ### Industry Transformation
 Here's how programs have revolutionized various sectors:
 
-| Industry | Applications | Benefits |
-|----------|-------------|-----------|
-| Healthcare | Electronic health records, diagnostic tools | Improved patient care, faster diagnosis |
-| Education | Learning management systems, educational apps | Personalized learning, wider access |
-| Finance | Trading algorithms, banking apps | Faster transactions, better security |
-| Entertainment | Streaming services, gaming | Enhanced user experience, global reach |
+2. Design: Planning the structure and features of the program.
+
+3. Implementation: Writing and testing the code.
+
+4. Testing: Ensuring the program functions correctly.
+
+
+5. Deployment: Releasing the program for use.
+
+6. Maintenance: Updating the program to fix bugs or add features.
+
+
+######## Future of Programs
+
+With advancements in technology, programs are becoming more intelligent and versatile. Trends such as cloud computing, machine learning, and quantum computing will shape the development of future programs. These innovations will enhance efficiency, security, and accessibility in ways we are only beginning to imagine.
