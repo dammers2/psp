@@ -32,3 +32,9 @@ Programming logic to react to process states, such as:
 
 ### Optimization and Diagnosis
 Identifying states where a service gets stuck (such as **blocked**) and optimizing it to avoid bottlenecks.
+
+### Priority Scheduling
+Processes are assigned a priority, and the scheduler selects the highest-priority process for execution, mitigating starvation with techniques like aging.
+
+### Round-Robin
+A time-sharing algorithm cycling through processes in a circular queue, allocating a fixed time slice to ensure fairness.
