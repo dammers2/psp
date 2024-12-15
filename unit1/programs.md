@@ -19,52 +19,52 @@ A computer program is a structured set of instructions written to perform specif
 1. System Software
 System software manages hardware and provides foundational services for other software. Without system software, computers cannot function.
 
-Examples:
-
-Operating Systems: Windows, macOS, Linux, and Android manage resources like memory and processing power.
-
-Device Drivers: Software that allows the operating system to communicate with hardware devices like printers or graphics cards.
+      Examples:
+      
+      Operating Systems: [Windows](https://www.microsoft.com/es-es/windows), [macOS](https://www.apple.com/es/macos/macos-sequoia/), [Linux](https://www.linux.org), and [Android](https://www.android.com/intl/es_es/) manage resources like memory and processing power.
+      
+      Device Drivers: Software that allows the operating system to communicate with hardware devices like printers or graphics cards.
 
 2. Application Software
 Application software is designed to help users perform tasks. These programs often have a user-friendly interface and specific functionality.
 Examples:
 
-Productivity Tools: Microsoft Office, Google Docs.
-
-Web Browsers: Chrome, Firefox, Safari.
-
-Creative Software: Adobe Photoshop, Final Cut Pro.
+      Productivity Tools: [Microsoft Office](https://www.microsoft.com/es-es/microsoft-365), [Google Docs](https://workspace.google.com/intl/es/products/docs/).
+      
+      Web Browsers: [Chrome](https://www.google.com/intl/es_es/chrome/), [Firefox](https://www.mozilla.org/es-ES/firefox/new/), [Safari](https://www.apple.com/es/safari/).
+      
+      Creative Software: [Adobe Photoshop](https://www.adobe.com/es/products/photoshop.html), [Final Cut Pro](https://www.apple.com/es/final-cut-pro/).
 
 3. Utility Software
 Utility software focuses on system maintenance and optimization. These programs ensure the computer runs efficiently.
 Examples:
 
-Antivirus tools like Norton and McAfee.
-
-Disk management software like CCleaner.
+      Antivirus tools like [Norton](https://es.norton.com) and [McAfee](https://www.mcafee.com/es-es/index.html).
+      
+      Disk management software like [CCleaner](https://www.ccleaner.com/es-es).
 
 4. Programming Software
 These tools are used to create other programs and applications. They are essential for software development.
 Examples:
 
-Text Editors: Visual Studio Code, Sublime Text.
-
-Compilers: GCC, LLVM.
-
-Debuggers: Tools that help identify errors in code.
-How Programs Work
+      Text Editors: [Visual Studio Code](https://code.visualstudio.com), [Sublime Text](https://www.sublimetext.com).
+      
+      Compilers: [GCC](https://gcc.gnu.org), [LLVM](https://llvm.org).
+      
+      Debuggers: Tools that help identify errors in code.
+### How Programs Work
 
 Programs are written in high-level programming languages (e.g., Python, Java, C++). The development process involves multiple steps to transform human-readable code into machine-executable instructions.
 
-Steps in Program Execution:
+#### Steps in Program Execution:
 
 1. Writing Code: Developers write source code using programming languages.
 
 2. Compilation or Interpretation:
 
-Compiled Languages (e.g., C++): The code is translated into machine code before execution.
+    - **Compiled Languages** (e.g., C++): The code is translated into machine code before execution.
 
-Interpreted Languages (e.g., Python): The code is executed line by line during runtime.
+    - **Interpreted Languages** (e.g., Python): The code is executed line by line during runtime.
 
 3. Execution: The CPU processes the machine code and performs the specified operations.
 
@@ -90,7 +90,7 @@ Communication: Tools like email clients and social media platforms enable instan
 Innovation: Programs enable advancements in artificial intelligence, robotics, and scientific research.
 
 
-####### Program Development Lifecycle
+###### Program Development Lifecycle
 
 Creating a program involves a series of steps known as the Software Development Life Cycle (SDLC):
 
@@ -108,6 +108,6 @@ Creating a program involves a series of steps known as the Software Development 
 6. Maintenance: Updating the program to fix bugs or add features.
 
 
-######## Future of Programs
+###### Future of Programs
 
 With advancements in technology, programs are becoming more intelligent and versatile. Trends such as cloud computing, machine learning, and quantum computing will shape the development of future programs. These innovations will enhance efficiency, security, and accessibility in ways we are only beginning to imagine.
