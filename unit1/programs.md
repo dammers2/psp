@@ -103,7 +103,7 @@ Here's how programs have revolutionized various sectors:
 
 
 
-####### Program Development Lifecycle
+###### Program Development Lifecycle
 
 
 ### Industry Transformation
@@ -121,6 +121,6 @@ Here's how programs have revolutionized various sectors:
 6. Maintenance: Updating the program to fix bugs or add features.
 
 
-######## Future of Programs
+###### Future of Programs
 
 With advancements in technology, programs are becoming more intelligent and versatile. Trends such as cloud computing, machine learning, and quantum computing will shape the development of future programs. These innovations will enhance efficiency, security, and accessibility in ways we are only beginning to imagine.
