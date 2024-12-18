@@ -5,7 +5,8 @@ Process states refer to the life cycle of processes managed by the operating sys
 ### System Services
 The services running in the background, like daemons in Linux, have states similar to those of operating system processes.
 
----
+
+
 
 ## States in Middleware or Concurrency Frameworks
 
