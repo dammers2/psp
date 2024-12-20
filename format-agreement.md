@@ -2,7 +2,9 @@
   
 Here we'll explain in a few words our topic, definition. Then we will divide the main content into sections.  
 To separate, we will use "---" before starting to work on our file.
-  
+
+**IMPORTANT:**  Use of the tab key is forbidden to avoid errors.
+
 ---
   
 ## First title
@@ -44,7 +46,11 @@ alert(message);
 For next jobs, we will maybe have to include links to websites, videos or simply any other pull request
   
 You may be using [This Format](https://www.educa2.madrid.org/web/centro.ies.islasfilipinas.madrid).
-  
+
+### Images
+
+![Handshake](Images/Handshake.png)
+
 ---
 
 Eventually, although we can already see the authors, it would be good to 'sign' our project at the very end.
