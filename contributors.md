@@ -8,7 +8,7 @@ Contributors file
 - Macmu1488     - Jorge
 - migueldam2    - Miguel	
 - hugogare      - Hugo
-- Ge8ffrey	    - Geoffrey
+- Ge8ffrey      - Geoffrey
 - ItIsabel      - Isabel
 - delgueero     - Daniel
 - rdrg          - Rodrigo
