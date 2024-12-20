@@ -1,11 +1,20 @@
+<<<<<<< HEAD
 ## PROCESS SCHEDULER
+=======
+# PROCESS SCHEDULER
+-----------------
+>>>>>>> 8247eed (Review successfully completed)
 
 A Process Scheduler is a component of the operating system responsible for managing the execution of processes in the CPU. Its primary role is to decide which process gets to use the CPU and for how long, ensuring efficient use of system resources while maintaining fairness among processes.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ### Batch Processing
 =======
 ##**Batch processing** is a task execution method where a group of processes or jobs is executed sequentially without user interaction during the execution.
+=======
+## **Batch processing** is a task execution method where a group of processes or jobs is executed sequentially without user interaction during the execution.
+>>>>>>> 8247eed (Review successfully completed)
 > Essentially, tasks are grouped into "batches" that are processed by the system at a scheduled time or when resources are available.
 >>>>>>> c17c461 (Revirew successfully completed)
 
