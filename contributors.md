@@ -17,3 +17,4 @@ Contributors file
 - srocillo23    - Sergio
 - TiagoLezcano	- Tiago
 - josupalacio   - Josué
+- AfricaLopez   - Africa
